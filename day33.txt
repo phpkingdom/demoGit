@@ -1,0 +1,13 @@
+Git
+
+
+git clone - url
+git status
+git commit
+git pull
+git push
+git checkout
+git add
+git config
+
+.git
